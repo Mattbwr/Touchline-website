@@ -1,0 +1,139 @@
+/* Comments are this */
+body{
+  font-family:Trebuchet,Helvetica, Tahoma, sans-serif;
+  color:#1a2227;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-size: large;
+}
+
+h1{
+  font-family:Trebuchet, Helvetica, Tahoma, sans-serif;
+  color:#1a2227;
+}
+
+#logo{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  display:flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+#demobox{
+  background-color: #00adb5
+}
+
+
+#title1{
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  padding: 0px 0;
+  font-size: 100;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+#center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 13%;
+  display:flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+
+h2{
+  font-family:Trebuchet, Helvetica, Tahoma, sans-serif;
+  color:#1a2227;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+h3{
+  font-family:Trebuchet, Helvetica, Tahoma, sans-serif;
+  color:#1a2227;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+h4{
+  font-family:Trebuchet, Helvetica, Tahoma, sans-serif;
+  color:#1a2227;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+h5{
+  font-family:Trebuchet, Helvetica, Tahoma, sans-serif;
+  color:#1a2227;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+h6{
+  font-family:Trebuchet, Helvetica, Tahoma, sans-serif;
+  color:#1a2227;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+div{border-width: thick;}
+
+#navbar{
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+      margin: auto;
+    color: rgba(31, 31, 31, 0.993);
+    background-color: rgba(124, 231, 245, 0.178);
+}
+
+.paras{
+    text-align: center;
+}
+
+.page1background{
+    background-image: url(background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+
+  }
+
+.a{
+  float: right;
+  font-size: large;
+  margin: auto;
+  width: 100%;
+  border: 2px solid rgb(0, 0, 0);
+}
+.b{
+  float: left;
+  height: 350px;
+  width: 250px;
+}
+
+
+
